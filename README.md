@@ -57,7 +57,6 @@ Design and implement a **full-featured relational database** using MySQL.
    ```bash
    git clone https://github.com/iiekezie/week8-final-project.git
    cd week8-final-project
-````
 
 2. Open MySQL and execute the SQL script:
 
